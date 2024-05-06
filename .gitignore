@@ -8,9 +8,7 @@
 
 **__pyscache
 
-/static
-/media
-/templates
+
 *.zip
 /tmp
 /db
