@@ -1,0 +1,16 @@
+*.jpg
+*.pyd
+????_*.py
+*.sqlite
+*.png
+*.jpeg
+
+
+**__pyscache
+
+/static
+/media
+/templates
+*.zip
+/tmp
+/db
